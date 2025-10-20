@@ -31,11 +31,11 @@
 - Developing **Datamarts, Data Warehouses, and Data Lakes**.  
 - Implementing and managing **alerts, monitoring systems, and incident handling**.  
 
+#### Tech Stack 👩‍💻
+
 🔧 **Skilled in:** Python, SQL, R, Shell Script, Airflow, Databricks, AWS, Azure, Microsoft Fabric, and Excel/Spreadsheets. Daily hands-on experience with databases including MySQL, Oracle, SQL Server, PostgreSQL, and MongoDB.  
 
 📊 **Data Visualization:** Proficient in Power BI, Looker Studio, and Tableau, building dashboards that drive strategic decision-making.  
-
-#### Tech Stack 👩‍💻
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
